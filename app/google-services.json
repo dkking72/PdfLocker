@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82285356677",
+    "project_id": "pdflocker-20571",
+    "storage_bucket": "pdflocker-20571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82285356677:android:d282cebcd5ca70173a6bec",
+        "android_client_info": {
+          "package_name": "com.dk.pdflocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82285356677-oackn4vhiumur303fati7do0rioqipoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dk.pdflocker",
+            "certificate_hash": "4e0c4ffd1df7340afecc9da0ca849c97e22ff54f"
+          }
+        },
+        {
+          "client_id": "82285356677-qsoqjtbei7u9sd9jn6sl45r6hiat7fik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwN1-h4d9cF5jg8b372-kigCdy-FEkLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82285356677-qsoqjtbei7u9sd9jn6sl45r6hiat7fik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
